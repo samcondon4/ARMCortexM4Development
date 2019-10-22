@@ -1,0 +1,1 @@
+This code calculates a simple 16 bit checksum over a memory range input by the user. 
