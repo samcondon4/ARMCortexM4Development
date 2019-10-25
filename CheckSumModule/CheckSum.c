@@ -1,9 +1,12 @@
-/* EE344 Lab 2 Code:
+/* CheckSum.c:
  *
  *	Calculates 16 bit checksum on block of memory input by a user.
  *	Validates memory address input and provides feedback if an invalid
  *	memory range was specified.  Enter up to 8 hex characters to specify
  *	a memory address.
+ *
+ *	State machine implemented through CSStateMachineEnter to demonstrate
+ *	functionality.
  *
  *	Using BasicIO and K65TWR_ClkCfg modules written by Todd Morton
  *
