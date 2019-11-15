@@ -2,3 +2,11 @@ PITandDACDemo/__pycache__
 PITandDACDemo/thinkdsp.py
 PITandDACDemo/thinkplot.py
 PITandDACDemo/.ipynb_checkpoints
+CheckSumMain/.gitignore
+RTIODemo/RTIODemo/.cproject
+RTIODemo/RTIODemo/.gitignore
+RTIODemo/RTIODemo/.project
+RTIODemo/RTIODemo/CMSIS/
+RTIODemo/RTIODemo/board/
+RTIODemo/RTIODemo/source/MCUType.h
+RTIODemo/RTIODemo/startup/
