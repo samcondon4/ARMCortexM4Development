@@ -12,5 +12,6 @@ another student is included here.
 
 The most interesting project included in these directories is /uCOS/FunctionGenerator.
 This is one of my most recent efforts in embedded systems development and is a project
-I completed in collaboration with a fellow student at Western Washington University.
+I completed in collaboration with fellow student, Trevor Schwarz at Western Washington 
+University.
 
